@@ -1,4 +1,7 @@
 package gestionproyectos;
 
-public class Tarea {
+public class Proyecto {
+    public Proyecto(){
+        
+    }
 }
