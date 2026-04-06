@@ -2,7 +2,7 @@ package gestionproyectos;
 
 public class Mago extends Tarea {
 
-    public Mago() {
+    public Mago(int a) {
         
     }    
 }
